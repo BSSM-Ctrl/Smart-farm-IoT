@@ -11,18 +11,22 @@
 물 시간 : 물시간이 0일때부터 몇초정도가 지났는지 int형으로 전송 <br>
 식물의 지금상태는 어떤지 : ESP32 cam에서 사진을 찍고 AI를 활용하여 A,B,C,D,E,F char형으로 전송 <br>
 
+### 역할 :
+
+| Name | role |
+| --- | --- |
+| 김동욱 | IoT, DB, Circuit Diagram |
+| 신희성 | Front - End, Design |
+| 조윤서 | Back - End |
+
 ### 언어 :
 
-Front - End : HTML, CSS, JS <br>
-Back - End : Node.JS <br>
-IoT : Arduino <br>
-DB : Firebase Realtime <br>
-
-### 개발환경 : 
-
-Visual Studio Code <br>
-Arduino IDE <br>
-Firebase <br>
-
+| Role | Language | Tool |
+| --- | --- | --- |
+| Front - End | HTML, CSS, JS | VSCode |
+| Back - End | Node.JS | VSCode |
+| Database | Firebase Realtime | Firebase |
+| IoT | C++ | Arduino IDE, VSCode |
+| Circuit Diagram | Fritzing | Fritzing |
 
 나중에 내용추가 예정 <br>
